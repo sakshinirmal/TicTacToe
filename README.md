@@ -1,7 +1,7 @@
 # Tic Tac Toe
 Welcome to the Tic Tac Toe React App! This is a simple Tic Tac Toe game built using React. Challenge your friends.
 
-<img src="/logo.png" width="200" height="200">
+![screenshot1](https://github.com/sakshinirmal/TicTacToe/assets/122890275/800aed73-1e55-46a7-82e5-c2f91662b516)
 
 
 ## Demo
