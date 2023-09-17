@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# Tic Tac Toe
+Welcome to the Tic Tac Toe React App! This is a simple Tic Tac Toe game built using React. Challenge your friends.
+
+<img src="./public/logo.png" width="200" height="200">
+
+
+## Demo
+
+- [Live Demo](https://sakshinirmal.github.io/TicTacToe/).
+
+
+## Technologies used
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
